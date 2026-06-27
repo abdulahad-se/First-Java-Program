@@ -1,3 +1,0 @@
-public class F_JavaLab {
-    // The Java Lab 6 Tasks Will Be Added Soon...........
-}

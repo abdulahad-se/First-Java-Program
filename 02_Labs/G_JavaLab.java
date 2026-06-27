@@ -1,3 +1,0 @@
-public class G_JavaLab {
-    // The Java Lab 7 Tasks Will Be Added Soon............
-}
