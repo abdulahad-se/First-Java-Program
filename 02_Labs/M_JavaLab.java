@@ -2,7 +2,7 @@ public class M_JavaLab {
 
     // Packages
 
-    // Tasks
+    // Tasks.
 
     // package bank_account;
     public class Calculate_interest {
