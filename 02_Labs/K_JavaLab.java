@@ -1,6 +1,6 @@
 public class K_JavaLab {
 
-    // Task 1.
+    // Task 1
     public class Processor {
     String name;
     double speed; 
