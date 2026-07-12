@@ -1,7 +1,7 @@
 public class J_JavaLab {
     // inheritance Lab
 
-    // Task 1
+    // Task 1.
     public class Card {
         public void greeting() {
             System.out.println("Greeting");
