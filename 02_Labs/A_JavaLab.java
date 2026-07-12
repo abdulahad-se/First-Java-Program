@@ -1,5 +1,5 @@
 
-// Task 1
+// Task 1.
 import java.util.*;
 
 public class A_JavaLab {
