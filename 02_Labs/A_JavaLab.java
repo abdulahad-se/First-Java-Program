@@ -10,6 +10,8 @@ public class A_JavaLab {
         double meters = inch * 0.0254;
         System.out.println(inch + " inch is " + meters + " meters.");
 
+        // ---------------------------------------------------------------------------------
+
         // Task 2
 
         System.out.print("Input the number of days: ");
@@ -17,6 +19,8 @@ public class A_JavaLab {
         int months = totalDays / 30;
         int remainingDays = totalDays % 30;
         System.out.println(totalDays + " days are " + months + " months and " + remainingDays + " days.");
+
+        // ----------------------------------------------------------------------------------------------------------------
 
         // Task 3
 
@@ -28,6 +32,8 @@ public class A_JavaLab {
         double heightMeters = heightInches * 0.0254;
         double BMI = weightKG / (heightMeters * heightMeters);
         System.out.println("Body Mass Index (BMI) is " + BMI);
+
+        // ---------------------------------------------------------------------
 
         // Task 4
 
@@ -53,6 +59,8 @@ public class A_JavaLab {
         System.out.println("Department: " + department);
         System.out.println("Email ID: " + email);
 
+        // -----------------------------------------------------------------
+
         // Task 5
 
         System.out.print("Enter first number: ");
@@ -63,6 +71,8 @@ public class A_JavaLab {
         int diff = num1 - num2;
         System.out.println("Sum: " + sum);
         System.out.println("Difference: " + diff);
+
+        // --------------------------------------------------------------
 
         // Task 6
 

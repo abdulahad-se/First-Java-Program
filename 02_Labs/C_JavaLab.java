@@ -18,6 +18,8 @@ public class C_JavaLab {
             System.out.println("Invalid hour entered.");
         }
 
+        // ----------------------------------------------------------------
+
         // Task 2
         System.out.print("Enter base: ");
         double base = input.nextDouble();
@@ -28,6 +30,8 @@ public class C_JavaLab {
         double result = Math.pow(base, exponent);
 
         System.out.println(base + " raised to the power of " + exponent + " is: " + result);
+
+        // ----------------------------------------------------------------------------------------------
 
         // Task 3
         System.out.print("Enter length: ");
@@ -41,6 +45,8 @@ public class C_JavaLab {
         } else {
             System.out.println("It is a rectangle.");
         }
+
+        // -----------------------------------------------------------
 
         // Task 4
         System.out.print("Enter your marks: ");
@@ -60,6 +66,8 @@ public class C_JavaLab {
             System.out.println("Grade: F");
         }
 
+        // -------------------------------------------------------
+
         // Task 5
         // Generate a random number between 1 and 25
         // (int)(Math.random() * range) + min
@@ -71,6 +79,8 @@ public class C_JavaLab {
 
         System.out.println("Random Number: " + randomNumber);
         System.out.println("Corresponding Character: " + character);
+
+        // ------------------------------------------------------------------------
 
         // Task 6
         System.out.print("Number of classes held: ");
@@ -84,6 +94,8 @@ public class C_JavaLab {
         } else {
             System.out.println("The student is NOT allowed to sit in the exam.");
         }
+
+        // -------------------------------------------------------------------------------------
 
         // Task 7
         System.out.print("Enter x1: ");

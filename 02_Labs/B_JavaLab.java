@@ -19,6 +19,8 @@ public class B_JavaLab {
         System.out.println("Division: " + div);
         System.out.println("Exponentiation: " + exp);
 
+        // --------------------------------------------------------------------
+
         // Task 2
 
         System.out.print("Enter temperature in Celsius: ");
@@ -28,6 +30,8 @@ public class B_JavaLab {
 
         System.out.println(celsius + " Celsius is " + fahrenheit + " Fahrenheit.");
 
+        // -------------------------------------------------------------------------------------
+
         // Task 3
         System.out.print("Enter a number: ");
         int number = input.nextInt();
@@ -36,6 +40,8 @@ public class B_JavaLab {
         System.out.println("After increment (++): " + number);
         number--;
         System.out.println("After decrement (--): " + number);
+
+        // -----------------------------------------------------------------
 
         // Task 4
         System.out.print("Enter first number: ");
