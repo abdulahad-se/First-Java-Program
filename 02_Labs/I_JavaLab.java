@@ -1,6 +1,6 @@
 public class I_JavaLab {
 
-    // Task 1.
+    // Task 1
     class Student {
         int roll_no, Semester;
         double Gpa;
