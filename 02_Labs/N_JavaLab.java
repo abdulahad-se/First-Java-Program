@@ -1,6 +1,6 @@
 public class N_JavaLab {
 
-    // Task 1
+    // Task 1.
     public class Example1 {
         public static void main(String[] args) {
             try {
