@@ -1,6 +1,6 @@
 public class L_JavaLab {
 
-    // Task 1
+    // Task 1.
     interface Y {
         void mull();
     }
