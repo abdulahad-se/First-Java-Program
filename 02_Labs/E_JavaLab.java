@@ -93,7 +93,7 @@ public class E_JavaLab {
             break;
         }
     }if(!found)System.out.println("All characters are repeated");
-    }}
+    }
 
     // --------------------------------------------------
     // Task 6
