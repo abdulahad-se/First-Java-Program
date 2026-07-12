@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class B_JavaLab {
-    // Task 1
+    // Task 1..
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter first number: ");
