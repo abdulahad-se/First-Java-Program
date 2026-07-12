@@ -3,7 +3,7 @@
 // While other is main class that intialize and print.
 
 public class H_JavaLab {
-    // Task 1.
+    // Task 1..
     class PowerLaw {
         int current, voltage, power;
 
